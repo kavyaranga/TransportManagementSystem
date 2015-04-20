@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:28:22 +0530] "GET /TransportManagementSystem/ HTTP/1.1" 200 653 http-bio-8080-exec-1 5213
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:28:22 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:28:25 +0530] "POST /TransportManagementSystem/login HTTP/1.1" 200 4389 http-bio-8080-exec-4 733
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:28:28 +0530] "POST /TransportManagementSystem/busList HTTP/1.1" 200 4686 http-bio-8080-exec-5 82
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:28:38 +0530] "POST /TransportManagementSystem/addEmployee HTTP/1.1" 200 155 http-bio-8080-exec-6 217
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:29:11 +0530] "POST /TransportManagementSystem/busList HTTP/1.1" 200 4497 http-bio-8080-exec-7 23
+0:0:0:0:0:0:0:1 - - [17/Apr/2015:19:29:17 +0530] "POST /TransportManagementSystem/addEmployee HTTP/1.1" 200 155 http-bio-8080-exec-8 81
